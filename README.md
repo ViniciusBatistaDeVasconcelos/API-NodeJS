@@ -1,4 +1,5 @@
-# API-NodeJS
+# API-NodeJS and MongoDB
+### by Vinícius Batista de Vasconcelos
 
 ## Pacotes Utilizados
 1. `npm init -y`
