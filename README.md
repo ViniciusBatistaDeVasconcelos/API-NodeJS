@@ -6,3 +6,4 @@
 1. `yarn add body-parser`
 1. `yarn add mongoose`
 1. `yarn add bcryptjs`
+1. `yarn add jsonwebtoken`
