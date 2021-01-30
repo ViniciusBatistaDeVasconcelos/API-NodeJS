@@ -11,3 +11,5 @@
 1. `yarn add fs path`
 1. `yarn add nodemailer`
 1. `yarn add nodemailer-express-handlebars`
+
+#### Node v14.15.1
