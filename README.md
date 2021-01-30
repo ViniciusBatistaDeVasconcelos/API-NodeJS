@@ -8,3 +8,6 @@
 1. `yarn add mongoose`
 1. `yarn add bcryptjs`
 1. `yarn add jsonwebtoken`
+1. `yarn add fs path`
+1. `yarn add nodemailer`
+1. `yarn add nodemailer-express-handlebars`
